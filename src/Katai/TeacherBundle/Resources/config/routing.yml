@@ -1,0 +1,3 @@
+katai_teacher_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: KataiTeacherBundle:Default:index }
